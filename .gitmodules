@@ -1,3 +1,4 @@
 [submodule "mgear_3.2.0"]
 	path = mgear_3.2.0
 	url = https://github.com/divyanshuarora-92/submodule.git
+	branch = 3.2.0
