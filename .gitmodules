@@ -6,3 +6,9 @@
 	path = mgear_4.2.5
 	url = https://github.com/divyanshuarora-92/submodule.git
 	branch = 4.2.5
+[submodule "new_mgear_4.2.5"]
+	path = new_mgear_4.2.5
+	url = https://github.com/divyanshuarora-92/submodule.git
+[submodule "new_mgear_3.2.0"]
+	path = new_mgear_3.2.0
+	url = https://github.com/divyanshuarora-92/submodule.git
